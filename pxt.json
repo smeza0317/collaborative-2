@@ -1,0 +1,25 @@
+{
+    "name": "Collaborative 2",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "collaborative": "github:smeza0317/collaborative#1b642edaebfb77e774fe304f1613dc803b931f74"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
