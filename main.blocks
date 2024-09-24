@@ -1,1 +1,18 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="r7m:9C1ypkst83D0E*f]" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=".G`bp.!WFGQ=GaH3lZsW">Customer</variable><variable id="nL=kP7M$n@[pIoj!3bOH">mySprite</variable><variable type="KIND_SpriteKind" id="4KtY,NU1v5x,v%j-o?NF">Player</variable><variable type="KIND_SpriteKind" id="rYqJH]*U_in3FtUffW}T">Projectile</variable><variable type="KIND_SpriteKind" id="j*BN|?hz`1fVR@@iWiz%">Food</variable><variable type="KIND_SpriteKind" id="~J.BZLT=a74}tf$eRFD_">Enemy</variable></variables><block type="pxt-on-start" id="r7m:9C1ypkst83D0E*f]" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="_n_BPY*MtV+@MrD.PBQ~"><field name="VAR" id=".G`bp.!WFGQ=GaH3lZsW">Customer</field><value name="VALUE"><shadow type="math_number" id=":G#.KVRWDF,t/gu0W(+X"><field name="NUM">0</field></shadow><block type="spritescreate" id="4$h1H}TCal7gQ9[0^a%r"><value name="img"><shadow type="screen_image_picker" id="XVFJQl@#6FhWk@yrOD!*"><field name="img">img`
+. . . . . f f 4 4 f f . . . . . 
+. . . . f 5 4 5 5 4 5 f . . . . 
+. . . f e 4 5 5 5 5 4 e f . . . 
+. . f e e e 4 4 4 4 e e e f . . 
+. . f e e e e e e e e e e f . . 
+. f e e e e e e e e e e e e f . 
+. f e e f f e e e e f f e e f . 
+. f e e f b f e e f b f e e f . 
+. f e e e 1 f 4 4 f 1 e e e f . 
+f f e e f 4 4 4 4 4 4 f e e f f 
+e e e f f f e e e e f f f e e f 
+. f e e f 4 d 4 4 d 4 f e e f . 
+. . e 4 4 d d d d d d 4 4 e . . 
+. . e f 4 4 4 4 4 4 4 4 f e . . 
+. . . f f 1 d 1 d 1 d f f . . . 
+. . . . . f f d d f f . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"XVFJQl@#6FhWk@yrOD!*"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="okA=sj#0x84GgjxqY};Q"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block><block type="variables_get" id="V3%GIP+!(_=u.|P?-])=" disabled="true" x="150" y="230"><field name="VAR" id=".G`bp.!WFGQ=GaH3lZsW">Customer</field></block></xml>
